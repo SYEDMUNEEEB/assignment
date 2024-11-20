@@ -63,7 +63,7 @@ const User = () => {
 
       <div className="navbar">
         {/* Search Bar */}
-        <div
+        <div className="search"
           style={{
             display: "flex",
             alignItems: "center",
